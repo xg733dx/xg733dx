@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juliano Henrique de Souza</h1>
 <h3 align="center">DevSecOps from Brazil</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: juliano_hs@hotmail.com</h3>
 <p align="left">
 </p>
 
